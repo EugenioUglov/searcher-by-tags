@@ -1,0 +1,28 @@
+{
+  "name": "searcher-by-tags",
+  "version": "1.0.0",
+  "description": "Class with functions that are searching tags in user request and return target values depends of tags.",
+  "main": "searcherByTags.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "searcher",
+    "search",
+    "by",
+    "tags",
+    "tags",
+    "searcher",
+    "tag",
+    "searcher",
+    "search",
+    "by",
+    "tag",
+    "search",
+    "tag"
+  ],
+  "author": "Eugenio Uglov",
+  "license": "ISC"
+}
