@@ -1,6 +1,7 @@
 # searcher-by-tags
 Class with functions that are searching tags in user request and return target values depends of tags.
 
+## Usage
 Install NPM package:
 ```
 npm install searcher-by-tags
@@ -21,3 +22,5 @@ console.log(searcherByTags.getTargetValuesByUserRequestExactSearch(
     }
 ));
 ```
+## Links
+NPM package: https://www.npmjs.com/package/searcher-by-tags
